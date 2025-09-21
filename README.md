@@ -1,8 +1,7 @@
 ![logo](https://github.com/Dadapeer-source/Dadapeer-source/blob/main/Banner1.jpeg)
 <h1 align="center">Hi 👋, I'm Dadapeer</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/206d8b15-3a8a-4c18-b3c5-909ce5830ef8" />
-"
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/f6e0031c-5a5b-4e51-93b4-23fc08aa5276"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dadapeer-source&label=Profile%20views&color=0e75b6&style=flat" alt="dadapeer-source" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dadapeer-source" alt="dadapeer-source" /></a> </p>
